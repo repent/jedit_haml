@@ -1,0 +1,8 @@
+# Ignore everything
+
+*
+
+# Exceptions
+
+!haml.xml
+!.gitignore
